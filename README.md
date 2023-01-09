@@ -1,4 +1,4 @@
-Hi 👋 My name is Sean Parkin
+My name is Sean Parkin
 ============================
 
 * 🌍  I'm based in Minnesota
